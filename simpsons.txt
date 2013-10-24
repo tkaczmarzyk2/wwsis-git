@@ -5,3 +5,5 @@ lisa
 maggie
 moe
 barney
+nelson
+apu
