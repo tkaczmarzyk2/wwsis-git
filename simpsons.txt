@@ -1,4 +1,3 @@
-homer
 marge
 bart
 lisa
