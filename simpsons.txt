@@ -3,3 +3,5 @@ marge
 bart
 lisa
 maggie
+moe
+barney
