@@ -3,3 +3,7 @@ to jest nowy plik
 
 
 wypchniety na repo tkaczmarzyk2
+
+
+
+nowa linia
